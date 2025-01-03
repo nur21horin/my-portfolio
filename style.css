@@ -6,6 +6,7 @@ nav{
     justify-content: space-between;
     padding: 20px 0;
     align-items: center;
+    margin: 0 200px;
 }
 
 body{
@@ -37,4 +38,15 @@ nav li{
 nav a{
     text-decoration: none;
     color: #474747;
+}
+
+.header{
+    background-color: #F5F5F5;
+    padding: 50px 0;
+    text-align: center;
+}
+.banner{
+    padding: 30px 30px  30px 150px;
+    display: flex;
+    align-items: center;
 }
